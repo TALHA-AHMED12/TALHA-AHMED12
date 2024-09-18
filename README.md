@@ -13,7 +13,7 @@ I'm a **Computer Science student** at **S.M Government Science College, Pakistan
 
 ### 📫 How to Reach Me:
 - **Email**: sheikhtalhaahmed098@gmail.com
-- **LinkedIn**: [Your GitHub Profile](#)
+- **LinkedIn**: [Your LinkedIn Profile](#)
 - **GitHub**: https://github.com/TALHA-AHMED12
 
 ### ⚡ Fun Fact:
