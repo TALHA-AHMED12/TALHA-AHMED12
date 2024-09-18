@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sheikh Talha Ahmed!
 
-<!--
-**TALHA-AHMED12/TALHA-AHMED12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** at **S.M Government Science College, Pakistan** with a strong interest in **AI, Metaverse, and Web 3.0**. I'm passionate about web development and currently enhancing my skills in **TypeScript, HTML, CSS**, and **Next.js**.
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools:
+- **Languages**: TypeScript, HTML, CSS
+- **Framework**: Next.js
+- **Currently Learning**: AI, Metaverse, Web 3.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On:
+- Exploring **AI** and **Metaverse** technologies.
+- Building web projects with **Next.js** and modern JavaScript.
+
+### 📫 How to Reach Me:
+- **Email**: sheikhtalhaahmed098@gmail.com
+- **LinkedIn**: https://github.com/TALHA-AHMED12
+- **GitHub**: [Your GitHub Profile](#)
+
+### ⚡ Fun Fact:
+I’m blending my passion for tech and creativity by learning the cutting-edge innovations of **Web 3.0** and **Metaverse**!
